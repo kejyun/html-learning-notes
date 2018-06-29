@@ -43,3 +43,5 @@
 * [Image srcset attribute example](https://webkit.org/demos/srcset/)
 * [Can I use... srcset](https://caniuse.com/#search=srcset)
 * [Srcset and sizes — ericportis.com](https://ericportis.com/posts/2014/srcset-sizes/)
+* [响应式图片srcset全新释义sizes属性w描述符 « 张鑫旭-鑫空间-鑫生活](https://www.zhangxinxu.com/wordpress/2014/10/responsive-images-srcset-size-w-descriptor/)
+* [Responsive Images - The srcset and sizes Attributes](https://bitsofco.de/the-srcset-and-sizes-attributes/)
